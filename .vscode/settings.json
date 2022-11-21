@@ -1,0 +1,14 @@
+{
+    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.dimInactiveRegions": true,
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "gopls": { 
+        "ui.semanticTokens": true,
+    },
+    "python.analysis.typeCheckingMode": "basic",
+    "scm.autoReveal": true,
+    "scm.alwaysShowRepositories": false,
+    "scm.alwaysShowActions": false
+}
